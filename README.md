@@ -1,2 +1,2 @@
 # Assignment_Chefkart
-This is a front-end developer assignment.
+This is a front-end developer assignment for Chefkart.
